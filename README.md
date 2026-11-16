@@ -40,7 +40,7 @@ Open the project folder.
 
 Run the following command:
 
-python main_shortend.py
+python main_shortened.py
 
 📚 What I Learned
 
